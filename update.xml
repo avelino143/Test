@@ -6,8 +6,8 @@
         <fileName>FivoQA.Agent.Setup.msi</fileName> 
         <md5>8C1FFB7E941507F556335B4AE173FAA6</md5>
         <description>
-			Update: 06/19/2014:
-				1. Added notification message when the current version is already the latest.</description> 
+	Update: 07/13/2018:
+	1. Added notification message when the current version is already the latest.</description> 
         <launchArgs></launchArgs> 
     </update> 
 </FivoUpdate>
