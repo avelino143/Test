@@ -5,7 +5,7 @@
        <url>https://s3-us-west-1.amazonaws.com/agent.fivolink.com/FivoQA.Agent.Setup.msi</url> 
         <fileName>FivoQA.Agent.Setup.msi</fileName> 
         <md5>8C1FFB7E941507F556335B4AE173FAA6</md5>
-	<product_code>8b621357-4d41-43dd-a39d-b5983917a70a<product_code>
+	<product_code>8b621357-4d41-43dd-a39d-b5983917a70a</product_code>
         <description>
 	Update: 07/13/2018:
 	1. Added notification message when the current version is already the latest.</description> 
